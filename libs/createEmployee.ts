@@ -1,4 +1,5 @@
 import type { Page } from "@playwright/test";
+import type { Employee } from "type/Employee";
 
 export const createEmployee = async (page: Page, employee: Employee) => {
   await page.goto("https://l.hr.dmerej.info/add_employee");
