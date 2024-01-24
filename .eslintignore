@@ -1,0 +1,10 @@
+.vscode
+node_modules
+public
+.eslintignore
+.gitattributes
+.gitignore
+.prettierignore
+pnpm-lock.yaml
+README.md
+playwright.config.ts
